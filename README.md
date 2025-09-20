@@ -4,10 +4,11 @@ A React-based timeline visualization component that displays events in horizonta
 
 ## How to Build and Run
 
-1. Navigate to the project directory
-2. Install dependencies: `pnpm install` (or `npm install`)
-3. Start the development server: `pnpm start` (or `npm start`)
-4. Open your browser to view the timeline component with sample data
+1. Clone the repository `git clone https://github.com/sergiobanhos/timeline-component-airtable-frontend-interview.git`
+2. Navigate to the project directory `cd timeline-component-airtable-frontend-interview`
+3. Install dependencies: `pnpm install` (or `npm install`)
+4. Start the development server: `pnpm start` (or `npm start`)
+5. Open your browser to view the timeline component with sample data
 
 ## Features Implemented
 
