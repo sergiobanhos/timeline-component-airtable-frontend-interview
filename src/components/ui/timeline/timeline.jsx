@@ -47,7 +47,7 @@ function TimelineDateMarkers() {
                     <div
                         key={index}
                         style={{ width: `${pixelsPerDay * (aggrupateWeeks ? 7 : 1)}px` }}
-                        className="flex flex-col justify-center items-center border p-4"
+                        className="flex flex-col justify-center items-center border p-4 text-center"
                     >
                         <p>{getDateLabel(date)}</p>
                         {
